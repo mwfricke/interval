@@ -1,0 +1,56 @@
+10
+
+dir
+0
+http://mfricke@svn.keyholekc.com/repos/internal/intervals/khs-interval-lib/Model
+http://mfricke@svn.keyholekc.com/repos/internal
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24878f60-9db0-43fa-b46a-923ef5a6cf55
+
+KhsDomain.cs
+file
+
+
+
+add
+
+Interval.cs
+file
+
+
+
+add
+
+Effort.cs
+file
+
+
+
+add
+
+Workout.cs
+file
+
+
+
+add
+
